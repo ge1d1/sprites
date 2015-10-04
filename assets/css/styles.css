@@ -1,0 +1,126 @@
+/*.Social Channels-------------------------*/
+
+.social-channels {
+	list-style: none;
+	padding: 0;
+}
+
+.social-channels li {
+	margin-right: .5em;
+	border-radius: 3px;
+	float: left;
+}
+
+.social-channels li a {
+	display: inline-block;
+}
+
+.facebook a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+}
+
+.facebook a:hover {
+	background: url(images/images/sprite.png);
+	background-position:0 33px;
+	transition: all 1s ease-in-out;
+}
+
+.youtube a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-33px 0px;
+
+}
+
+.youtube a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-33px 33px;
+	transition: all 1s ease-in-out;
+}
+
+.twitter a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-66px 0px;
+
+}
+
+.twitter a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-66px 66px;
+	transition: all 1s ease-in-out;
+}
+
+.googleplus a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-99px 0px;
+
+}
+
+.googleplus a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-99px 99px;
+	transition: all 1s ease-in-out;
+}
+
+.linkedin a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-132px 0px;
+
+}
+
+.linkedin a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-132px 132px;
+	transition: all 1s ease-in-out;
+}
+
+.flickr a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-165px 0px;
+
+}
+
+.flickr a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-165px 165px;
+	transition: all 1s ease-in-out;
+}
+
+.pinterest a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-198px 0px;
+
+}
+
+.pinterest a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-198px 198px;
+	transition: all 1s ease-in-out;
+}
+
+.github a {
+	width: 33px;
+	height: 33px;
+	background: url(images/images/sprite.png);
+	background-position:-231px 0px;
+
+}
+
+.github a:hover {
+	background: url(images/images/sprite.png);
+	background-position:-231px 231px;
+	transition: all 1s ease-in-out;
+}
